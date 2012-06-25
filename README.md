@@ -84,3 +84,31 @@ Drawing from the existing Cocoa Internationalization Mountains sample, this samp
 [URL](https://developer.apple.com/library/ios/#samplecode/InternationalMountains/Introduction/Intro.html#//apple_ref/doc/uid/DTS40008756)
 
 Updated: 2010-06-17
+
+##CoreDataBooks##
+
+This sample illustrates a number of aspects of working with the Core Data framework with an iPhone application:
+
+* Use of an instance of NSFetchedResultsController object to manage a collection of objects to be displayed in a table view. 
+* Undo and redo.
+* Database initialization. 
+* Use of a second (child) managed object context to isolate changes during an add operation.
+
+[URL](http://developer.apple.com/library/prerelease/ios/#samplecode/CoreDataBooks/Introduction/Intro.html#//apple_ref/doc/uid/DTS40008405)
+
+Updated: 2012-04-04
+
+##Core Data Utility##
+
+This sample contains the complete source code to the Core Data Utility Tutorial.
+
+The sample illustrates how you can create a command-line utility that uses Core Data. It shows how to perform basic tasks required in a Core Data application: 
+
+* Creation of a Core Data stack -- a persistent store, a persistent store coordinator (including the managed object model), and a managed object context. 
+* Creation and initialization of a managed object. 
+* Committing changes to the store by saving a context. 
+* Creating a fetch request and retrieving managed objects.
+
+[URL](http://developer.apple.com/library/prerelease/ios/#samplecode/CoreDataUtility/Introduction/Intro.html#//apple_ref/doc/uid/DTS40012164)
+
+Updated: 2012-04-04
