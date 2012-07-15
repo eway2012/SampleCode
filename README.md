@@ -112,3 +112,11 @@ The sample illustrates how you can create a command-line utility that uses Core 
 [URL](http://developer.apple.com/library/prerelease/ios/#samplecode/CoreDataUtility/Introduction/Intro.html#//apple_ref/doc/uid/DTS40012164)
 
 Updated: 2012-04-04
+
+#PhotosByLocation#
+
+Demonstrates how to use the AssetsLibrary APIs to provide a custom image picking UI. The user experience is centered around the idea of using the assets location and time metadata as a basis for certain features.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/PhotosByLocation/Introduction/Intro.html#//apple_ref/doc/uid/DTS40010136)
+
+Updated: 2012-07-10
