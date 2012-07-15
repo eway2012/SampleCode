@@ -168,3 +168,11 @@ See "Motion Events" in Event Handling Guide for iPhone OS explains how to use th
 [URL](https://developer.apple.com/library/ios/#samplecode/pARk/Introduction/Intro.html#//apple_ref/doc/uid/DTS40011083)
 
 Updated: 2012-06-26
+
+#ZoomingPDFViewer#
+
+This project demonstrates how to use UIScrollView and CATileLayer to create a PDF viewer that supports supports zooming in or out at any level.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/ZoomingPDFViewer/Introduction/Intro.html#//apple_ref/doc/uid/DTS40010281)
+
+Updated: 2012-05-14
