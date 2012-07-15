@@ -120,3 +120,11 @@ Demonstrates how to use the AssetsLibrary APIs to provide a custom image picking
 [URL](https://developer.apple.com/library/ios/#samplecode/PhotosByLocation/Introduction/Intro.html#//apple_ref/doc/uid/DTS40010136)
 
 Updated: 2012-07-10
+
+#QuickContacts#
+
+QuickContacts demonstrates how to use the Address Book UI controllers and various properties such as displayedProperties, allowsAddingToAddressBook, and displayPerson. It shows how to browse a list of Address Book contacts, display and edit a contact record, create a new contact record, and update a partial contact record.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/QuickContacts/Introduction/Intro.html#//apple_ref/doc/uid/DTS40009475)
+
+Updated: 2010-06-25
