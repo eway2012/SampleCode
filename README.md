@@ -128,3 +128,11 @@ QuickContacts demonstrates how to use the Address Book UI controllers and variou
 [URL](https://developer.apple.com/library/ios/#samplecode/QuickContacts/Introduction/Intro.html#//apple_ref/doc/uid/DTS40009475)
 
 Updated: 2010-06-25
+
+#ABUIGroups#
+
+ABUIGroups demonstrates how to retrieve, add, and remove group records from the address book database using AddressBook APIs. It displays groups organized by their source in the address book.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/ABUIGroups/Introduction/Intro.html#//apple_ref/doc/uid/DTS40011307)
+
+Updated: 2011-10-11
