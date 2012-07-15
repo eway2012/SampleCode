@@ -136,3 +136,13 @@ ABUIGroups demonstrates how to retrieve, add, and remove group records from the 
 [URL](https://developer.apple.com/library/ios/#samplecode/ABUIGroups/Introduction/Intro.html#//apple_ref/doc/uid/DTS40011307)
 
 Updated: 2011-10-11
+
+#CurrentAddress#
+
+Demonstrates basic use of MapKit, displaying a map view and setting its region to current location.
+
+It makes use of the MKReverseGeocoder class that provides services for converting your map coordinate (specified as a latitude/longitude pair) into information about that coordinate, such as the country, city, or street. A reverse geocoder object is a single-shot object that works with a network-based map service to look up placemark information for its specified coordinate value. To use placemark information is leverages the MKPlacemark class to store this information.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/CurrentAddress/Introduction/Intro.html#//apple_ref/doc/uid/DTS40009469)
+
+Updated: 2010-12-01
