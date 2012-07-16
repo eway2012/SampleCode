@@ -184,3 +184,11 @@ Shows how to do simple networking using the NSStream API. The goal of this sampl
 [URL](https://developer.apple.com/library/ios/#samplecode/SimpleNetworkStreams/Introduction/Intro.html#//apple_ref/doc/uid/DTS40008979)
 
 Updated: 2012-05-09
+
+#SimpleURLConnections#
+
+SimpleURLConnections shows how to do simple networking using the NSURLConnection API. The goal of this sample is very limited: it does not demonstrate everything you need to implement a fully fledged networking product, rather, its goal is to demonstrate simple HTTP GET, PUT and POST using the NSURLConnection API.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/SimpleURLConnections/Introduction/Intro.html#//apple_ref/doc/uid/DTS40009245)
+
+Updated: 2012-04-11
