@@ -192,3 +192,11 @@ SimpleURLConnections shows how to do simple networking using the NSURLConnection
 [URL](https://developer.apple.com/library/ios/#samplecode/SimpleURLConnections/Introduction/Intro.html#//apple_ref/doc/uid/DTS40009245)
 
 Updated: 2012-04-11
+
+#UnitTests#
+
+Shows how to build a static library for an iOS app and a Mac app, how to implement and run logic unit tests on the librarary source code on each platform, and how to implement and run application unit tests for the apps.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/UnitTests/Introduction/Intro.html#//apple_ref/doc/uid/DTS40011742)
+
+Updated: 2012-04-09
