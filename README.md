@@ -244,3 +244,15 @@ CopyPasteTile demonstrates how to implement the copy-cut-paste feature introduce
 [URL](https://developer.apple.com/library/ios/#samplecode/CopyPasteTile/Introduction/Intro.html#//apple_ref/doc/uid/DTS40009040)
 
 Updated: 2010-06-28
+
+#CoreTelephonyDemo#
+
+This sample shows how to use Core Telephony framework to access the user's current calls, call center and carrier information.
+
+The application uses a grouped table view with 3 sections, each section displaying one Core Telephony object.
+
+The techniques shown in this sample are: * correct way of instantiating Core Telephony framework objects * using a block-based event handler to receive call events * access Core Telephony object properties
+
+[URL](https://developer.apple.com/library/ios/#samplecode/CoreTelephonyDemo/Introduction/Intro.html#//apple_ref/doc/uid/DTS40010746)
+
+Updated: 2011-03-08
