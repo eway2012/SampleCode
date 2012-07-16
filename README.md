@@ -230,3 +230,17 @@ Demonstrates how to implement a headsUp or HUD-like user interface over the app'
 [URL](https://developer.apple.com/library/ios/#samplecode/HeadsUpUI/Introduction/Intro.html#//apple_ref/doc/uid/DTS40007998)
 
 Updated: 2010-06-24
+
+#CopyPasteTile#
+
+CopyPasteTile demonstrates how to implement the copy-cut-paste feature introduced in iPhone OS 3.0. The sample:
+
+* Shows how to use the UIMenuController class to position and display the editing menu (the menu with the Copy, Cut, Paste, and other commands).
+
+* Illustrates how you might implement the canPerformAction:withSender: method of UIResponder to validate the menu commands for the current context.
+
+* Shows how to respond when the user taps a menu command by reading and writing data to a pasteboard, (an instance of the UIPasteboard class).
+
+[URL](https://developer.apple.com/library/ios/#samplecode/CopyPasteTile/Introduction/Intro.html#//apple_ref/doc/uid/DTS40009040)
+
+Updated: 2010-06-28
