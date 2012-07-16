@@ -200,3 +200,17 @@ Shows how to build a static library for an iOS app and a Mac app, how to impleme
 [URL](https://developer.apple.com/library/ios/#samplecode/UnitTests/Introduction/Intro.html#//apple_ref/doc/uid/DTS40011742)
 
 Updated: 2012-04-09
+
+#URLCache#
+
+URLCache is a sample iPhone application that demonstrates how to download a resource off the web, store it in the application's data directory, and use the local copy of the resource. URLCache also demonstrates how to implement a couple of caching policies:
+
+- The local copy of a web resource should remain valid for a period of time (for example, one day) during which the web is not re-checked.
+
+- The HTTP header's Last-Modified date should be used to determine the last time a web resource changed before re-downloading it.
+
+The audience for this sample is iPhone developers using resources such as images that are retrieved or updated from the web.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/URLCache/Introduction/Intro.html#//apple_ref/doc/uid/DTS40008061)
+
+Updated: 2010-06-25
