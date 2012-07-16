@@ -256,3 +256,11 @@ The techniques shown in this sample are: * correct way of instantiating Core Tel
 [URL](https://developer.apple.com/library/ios/#samplecode/CoreTelephonyDemo/Introduction/Intro.html#//apple_ref/doc/uid/DTS40010746)
 
 Updated: 2011-03-08
+
+#ExternalDisplay#
+
+How to detect the presence of an external display, determine the available display resolutions, select a resolution, and show content on the display.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/ExternalDisplay/Introduction/Intro.html#//apple_ref/doc/uid/DTS40010724)
+
+Updated: 2011-03-01
