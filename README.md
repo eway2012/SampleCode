@@ -222,3 +222,11 @@ HelloWorld demonstrates how to use a keyboard to enter text into a text field an
 [URL](https://developer.apple.com/library/ios/#samplecode/HelloWorld_iPhone/Introduction/Intro.html#//apple_ref/doc/uid/DTS40007709)
 
 Updated: 2010-06-24
+
+#HeadsUpUI#
+
+Demonstrates how to implement a headsUp or HUD-like user interface over the app's primary view controller. This essentially mimics the behavior of the MPMoviePlayerController's hovering controls for controlling movie playback. Developers can refer to this sample for best practices in how to implement this translucent kind of interface complete with animation and timer support.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/HeadsUpUI/Introduction/Intro.html#//apple_ref/doc/uid/DTS40007998)
+
+Updated: 2010-06-24
