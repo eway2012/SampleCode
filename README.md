@@ -214,3 +214,11 @@ The audience for this sample is iPhone developers using resources such as images
 [URL](https://developer.apple.com/library/ios/#samplecode/URLCache/Introduction/Intro.html#//apple_ref/doc/uid/DTS40008061)
 
 Updated: 2010-06-25
+
+#HelloWorld#
+
+HelloWorld demonstrates how to use a keyboard to enter text into a text field and how to display the text in a label.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/HelloWorld_iPhone/Introduction/Intro.html#//apple_ref/doc/uid/DTS40007709)
+
+Updated: 2010-06-24
