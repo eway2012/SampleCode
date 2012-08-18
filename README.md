@@ -264,3 +264,11 @@ How to detect the presence of an external display, determine the available displ
 [URL](https://developer.apple.com/library/ios/#samplecode/ExternalDisplay/Introduction/Intro.html#//apple_ref/doc/uid/DTS40010724)
 
 Updated: 2011-03-01
+
+#PhotoPicker#
+
+This sample demonstrates how to choose images from the photo library, take a picture with the device's camera, and how to customize the look of the camera's user interface. This is done by using UIImagePickerController. The chosen image or camera photo is displayed in a UIImageView.  To customize the camera's interface, this sample shows how to use an overlay view. With this overlay view it gives you the ability to customize the UI as you take a picture.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/PhotoPicker/Introduction/Intro.html#//apple_ref/doc/uid/DTS40010196)
+
+Updated: 2012-08-17
