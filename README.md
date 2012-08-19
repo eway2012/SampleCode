@@ -272,3 +272,11 @@ This sample demonstrates how to choose images from the photo library, take a pic
 [URL](https://developer.apple.com/library/ios/#samplecode/PhotoPicker/Introduction/Intro.html#//apple_ref/doc/uid/DTS40010196)
 
 Updated: 2012-08-17
+
+#GeocoderDemo#
+
+This sample application demonstrates using a CLGeocoder instance to perform forward and reverse geocoding on strings and dictionaries. The application also includes an example distance calculator that will display the distance between two placemarks.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/GeocoderDemo/Introduction/Intro.html#//apple_ref/doc/uid/DTS40011097)
+
+Last Revision: Version 1.2, 2012-08-06
