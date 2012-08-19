@@ -280,3 +280,13 @@ This sample application demonstrates using a CLGeocoder instance to perform forw
 [URL](https://developer.apple.com/library/ios/#samplecode/GeocoderDemo/Introduction/Intro.html#//apple_ref/doc/uid/DTS40011097)
 
 Last Revision: Version 1.2, 2012-08-06
+
+#Core Audio Utility Classes#
+
+The "CoreAudio" folder contains the Public Utility sources (PublicUtility folder) as well as base classes required for codec and audio unit development and so on. These utility classes are used by Core Audio sample code and extend or wrap Core Audio API's.
+
+The "CoreAudio" utility classes require OS X 10.7 or later and Xcode 4.3 or later and should be placed in the '/Library/Developer/' for general use with Apple Core Audio Sample Code.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/CoreAudioUtilityClasses/Introduction/Intro.html)
+
+Last Revision:	Version 1.01, 2012-06-26
