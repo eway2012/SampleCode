@@ -308,3 +308,11 @@ SimpleFTPSample shows how to do simple FTP operations using the NSURLConnection 
 [URL](https://developer.apple.com/library/ios/#samplecode/SimpleFTPSample/Introduction/Intro.html#//apple_ref/doc/uid/DTS40009243)
 
 Last Revision:	Version 1.3, 2012-08-19
+
+#LazyTableImages#
+
+This sample demonstrates a multi-stage approach to loading and displaying a UITableView. It begins by loading the relevant text from an RSS feed so the table can load as quickly as possible, and then downloads the images for each row asynchronously so the UI is more responsive.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/LazyTableImages/Introduction/Intro.html#//apple_ref/doc/uid/DTS40009394)
+
+Last Revision:	Version 1.3, 2012-08-22
