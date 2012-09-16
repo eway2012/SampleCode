@@ -316,3 +316,11 @@ This sample demonstrates a multi-stage approach to loading and displaying a UITa
 [URL](https://developer.apple.com/library/ios/#samplecode/LazyTableImages/Introduction/Intro.html#//apple_ref/doc/uid/DTS40009394)
 
 Last Revision:	Version 1.3, 2012-08-22
+
+#CoreTextPageViewer#
+
+This sample shows how to use Core Text to display large bodies of text, text with mixed styles, and text with special style or layout requirements, such as use of custom fonts. A version of this sample was used in the "Advanced Text Handling for iPhone OS" WWDC 2010 Session.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/CoreTextPageViewer/Introduction/Intro.html#//apple_ref/doc/uid/DTS40010699)
+
+Last Revision:	Version 1.0, 2011-02-08
