@@ -300,3 +300,11 @@ The sample image, encoded as an xcode project build phase, is rendered on a rota
 [URL](https://developer.apple.com/library/ios/#samplecode/PVRTextureLoader/Introduction/Intro.html#//apple_ref/doc/uid/DTS40008121)
 
 Last Revision:	Version 1.5, 2010-06-25
+
+#SimpleFTPSample#
+
+SimpleFTPSample shows how to do simple FTP operations using the NSURLConnection and CFFTPStream APIs. It can download a file using both NSURLConnection and CFFTPStream. Also, it can upload a file, list a directory, and create a directory using CFFTPStream.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/SimpleFTPSample/Introduction/Intro.html#//apple_ref/doc/uid/DTS40009243)
+
+Last Revision:	Version 1.3, 2012-08-19
