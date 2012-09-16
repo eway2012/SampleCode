@@ -290,3 +290,13 @@ The "CoreAudio" utility classes require OS X 10.7 or later and Xcode 4.3 or late
 [URL](https://developer.apple.com/library/ios/#samplecode/CoreAudioUtilityClasses/Introduction/Intro.html)
 
 Last Revision:	Version 1.01, 2012-06-26
+
+#PVRTextureLoader#
+
+This application illustrates how to load PVR texture files using the included PVRTexture class and then display them using OpenGL.
+
+The sample image, encoded as an xcode project build phase, is rendered on a rotatable and scalable quad. Controls are provided for experimenting with various texture compression and filter settings.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/PVRTextureLoader/Introduction/Intro.html#//apple_ref/doc/uid/DTS40008121)
+
+Last Revision:	Version 1.5, 2010-06-25
