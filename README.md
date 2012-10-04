@@ -324,3 +324,13 @@ This sample shows how to use Core Text to display large bodies of text, text wit
 [URL](https://developer.apple.com/library/ios/#samplecode/CoreTextPageViewer/Introduction/Intro.html#//apple_ref/doc/uid/DTS40010699)
 
 Last Revision:	Version 1.0, 2011-02-08
+
+#Reflection#
+
+This sample shows how to implement a "reflection" special effect on a given UIImageView most commonly seen in iTunes and iPod player apps.
+
+It allows the rendering effect with "dynamic" input values for 1) reflection height and 2) translucency level. These values can be plugged into the factory methods provided by this sample to achieve a desired affect.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/Reflection/Introduction/Intro.html#//apple_ref/doc/uid/DTS40008063)
+
+Last Revision:	Version 1.6, 2012-09-26
