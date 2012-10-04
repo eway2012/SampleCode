@@ -334,3 +334,15 @@ It allows the rendering effect with "dynamic" input values for 1) reflection hei
 [URL](https://developer.apple.com/library/ios/#samplecode/Reflection/Introduction/Intro.html#//apple_ref/doc/uid/DTS40008063)
 
 Last Revision:	Version 1.6, 2012-09-26
+
+#MultipleDetailViews#
+
+This sample shows how you can use UISplitViewController to manage the presentation of multiple detail views in conjunction with a navigation hierarchy.
+
+The application uses a split view controller with a custom object as its delegate. When you make a selection in the table view, a new view controller is set as the split view controller's second view controller.
+
+The custom split view delegate defines a protocol (SubstitutableDetailViewController) that detail view controllers must adopt. The protocol specifies a property to hide and show the bar button item controlling the popover.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/MultipleDetailViews/Introduction/Intro.html#//apple_ref/doc/uid/DTS40009775)
+
+Last Revision:	Version 1.2, 2012-09-18
