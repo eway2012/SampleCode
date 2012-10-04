@@ -346,3 +346,11 @@ The custom split view delegate defines a protocol (SubstitutableDetailViewContro
 [URL](https://developer.apple.com/library/ios/#samplecode/MultipleDetailViews/Introduction/Intro.html#//apple_ref/doc/uid/DTS40009775)
 
 Last Revision:	Version 1.2, 2012-09-18
+
+#CollectionView-Simple#
+
+Demonstrates how to use UICollectionView, a way to present ordered data to users in a grid-like fashion. With a collection view object, you are able to define the presentation and arrangement of embedded views. The collection view class works closely with an accompanying layout object to define the placement of individual data items. In this example UIKit provides a standard flow-based layout object that you can use to implement multi-column grids containing items of a standard size.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/CollectionView-Simple/Introduction/Intro.html#//apple_ref/doc/uid/DTS40012860)
+
+Last Revision:	Version 1.0, 2012-09-24
