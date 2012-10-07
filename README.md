@@ -354,3 +354,13 @@ Demonstrates how to use UICollectionView, a way to present ordered data to users
 [URL](https://developer.apple.com/library/ios/#samplecode/CollectionView-Simple/Introduction/Intro.html#//apple_ref/doc/uid/DTS40012860)
 
 Last Revision:	Version 1.0, 2012-09-24
+
+#SpeakHere#
+
+SpeakHere demonstrates basic use of Audio Queue Services, Audio File Services, and Audio Session Services on the iPhone for recording and playing back audio.
+
+The code in SpeakHere uses Audio File Services to create, record into, and read from a CAF (Core Audio Format) audio file containing uncompressed (PCM) audio data. The application uses Audio Queue Services to manage recording and playback. The application also uses Audio Session Services to manage interruptions (as described in Core Audio Overview).
+
+[URL](https://developer.apple.com/library/ios/#samplecode/SpeakHere/Introduction/Intro.html#//apple_ref/doc/uid/DTS40007802)
+
+Last Revision:	Version 2.5, 2012-09-10
