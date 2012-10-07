@@ -364,3 +364,11 @@ The code in SpeakHere uses Audio File Services to create, record into, and read 
 [URL](https://developer.apple.com/library/ios/#samplecode/SpeakHere/Introduction/Intro.html#//apple_ref/doc/uid/DTS40007802)
 
 Last Revision:	Version 2.5, 2012-09-10
+
+#PhotoScroller#
+
+"PhotoScroller" demonstrates the use of embedded UIScrollViews and CATiledLayer to create a rich user experience for displaying and paginating photos that can be individually panned and zoomed. CATiledLayer is used to increase the performance of paging, panning, and zooming with high-resolution images or large sets of photos.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/PhotoScroller/Introduction/Intro.html#//apple_ref/doc/uid/DTS40010080)
+
+Last Revision:	Version 1.2, 2012-08-01
