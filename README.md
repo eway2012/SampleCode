@@ -372,3 +372,11 @@ Last Revision:	Version 2.5, 2012-09-10
 [URL](https://developer.apple.com/library/ios/#samplecode/PhotoScroller/Introduction/Intro.html#//apple_ref/doc/uid/DTS40010080)
 
 Last Revision:	Version 1.2, 2012-08-01
+
+#AVSimpleEditoriOS#
+
+AVSimpleEditor is a simple AVFoundation based movie editing application which exercises the APIs of AVVideoComposition, AVAudioMix and demonstrates how they can be used for simple video editing tasks. It also demonstrates how they interact with playback (AVPlayerItem) and export (AVAssetExportSession). The application performs trim, rotate, crop, add music, add watermark and export. This sample is ARC-enabled.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/AVSimpleEditoriOS/Introduction/Intro.html#//apple_ref/doc/uid/DTS40012797)
+
+Last Revision:	Version 1.0, 2012-09-10
