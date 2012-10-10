@@ -394,3 +394,15 @@ Because CoreAudio AudioUnits process audio data using a "pull" model, but the AV
 [URL](https://developer.apple.com/library/ios/#samplecode/AVCaptureToAudioUnit/Introduction/Intro.html#//apple_ref/doc/uid/DTS40012880)
 
 Last Revision:	Version 1.0, 2012-10-08
+
+#Touches#
+
+The Touches sample application demonstrates how to handle touches, including multiple touches that move multiple objects. After the application launches, three colored pieces appear onscreen that the user can move independently.
+
+"Touches_Classic" demonstrates how to handle touches using UIResponder's: touches began, touches moved, and touches ended.
+
+"Touches_GestureRecognizers" demonstrates how to use UIGestureRecognizers to handle touch events.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/Touches/Introduction/Intro.html#//apple_ref/doc/uid/DTS40007435)
+
+Last Revision:	Version 1.14, 2012-07-17
