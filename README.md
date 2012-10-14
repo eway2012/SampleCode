@@ -522,3 +522,15 @@ Amongst the techniques shown are how to:
 [URL](https://developer.apple.com/library/ios/#samplecode/iPhoneCoreDataRecipes/Introduction/Intro.html#//apple_ref/doc/uid/DTS40008913)
 
 Last Revision:	Version 1.4, 2010-06-25
+
+#KMLViewer#
+
+Demonstrates how to display KML files on top of a MKMapView. It shows how to use MapKit's Annotations and Overlays to display KML files on top of an MKMapView.
+
+KML is an open standard, so you can learn more about it at the Open Geospatial Consortium website: http://www.opengeospatial.org/standards/kml
+
+The Google documentation for KML is at this website: http://code.google.com/apis/kml/
+
+[URL](https://developer.apple.com/library/ios/#samplecode/KMLViewer/Introduction/Intro.html#//apple_ref/doc/uid/DTS40010046)
+
+Last Revision:	Version 1.3, 2012-02-22
