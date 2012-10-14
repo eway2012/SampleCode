@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:ReadMe.txt">
+   </FileRef>
+   <FileRef
+      location = "group:BasicBanner/BasicBanner.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:TabbedBanner/TabbedBanner.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:NavigationBanner/NavigationBanner.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ContainerBanner/ContainerBanner.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SplitViewBanner/SplitViewBanner.xcodeproj">
+   </FileRef>
+</Workspace>

@@ -406,3 +406,25 @@ The Touches sample application demonstrates how to handle touches, including mul
 [URL](https://developer.apple.com/library/ios/#samplecode/Touches/Introduction/Intro.html#//apple_ref/doc/uid/DTS40007435)
 
 Last Revision:	Version 1.14, 2012-07-17
+
+#iAdInterstitialSuite#
+
+iAdInterstitialSuite contains two applications that demonstrate the usage of the ADInterstitialAd introduced in iOS 4.3.
+
+ADGame – a simple game that displays an interstitial ad between games.
+
+ADMagazine - a simple picture magazine that displays an interstitial ad as you page through.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/iAdInterstitialSuite/Introduction/Intro.html#//apple_ref/doc/uid/DTS40010627)
+
+Last Revision:	Version 1.2, 2012-01-19
+
+#iAdSuite#
+
+iAdSuite is a set of five samples demonstrating how to manage an ADBannerView in 4 common scenarios: An application with a single view controller (BasicBanner, ContainerBanner), an application that uses a UITabBarViewController (TabbedBanner), an application that uses a UINavigationViewController (NavigationBanner) and an application that uses a UISplitViewController (SplitViewBanner).
+
+All of the samples use a simple view controller that display a read-only UITextView (managed by the TextViewController class) along with a label that shows a running timer. The ADBannerView is placed at the bottom of the view in all cases, and all orientations are supported by each sample. The BasicBanner and ContainerBanner are configured to support both iPhone and iPad idioms, the TabbedBanner and NavigationBanner to support only the iPhone idiom, and the SplitViewBanner to support only the iPad idiom.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/iAdSuite/Introduction/Intro.html#//apple_ref/doc/uid/DTS40010198)
+
+Last Revision:	Version 2.0, 2011-10-31
