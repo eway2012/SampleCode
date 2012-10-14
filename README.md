@@ -428,3 +428,13 @@ All of the samples use a simple view controller that display a read-only UITextV
 [URL](https://developer.apple.com/library/ios/#samplecode/iAdSuite/Introduction/Intro.html#//apple_ref/doc/uid/DTS40010198)
 
 Last Revision:	Version 2.0, 2011-10-31
+
+#SimpleStocks#
+
+The SimpleStocks sample application demonstrates how to use UIKit classes and the Core Graphics framework to draw content for iOS. From this example you will learn about UIKit's UIBezierPath class. In the sample path objects are used to both draw content and clip content. In addition you will see examples of using patterns to fill paths as well as using a path to clip images.
+
+This example shows how to use various drawing API's in UIKit. - UIBezierPath for building simple and complex paths - UIBezierPath for clipping - Gradients - How the drawing system works in UIKit - Performance Optimizations for drawing
+
+[URL](https://developer.apple.com/library/ios/#samplecode/SimpleStocks/Introduction/Intro.html#//apple_ref/doc/uid/DTS40011103)
+
+Last Revision:	Version 1.1, 2011-07-27
