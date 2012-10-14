@@ -478,3 +478,11 @@ Although the application's data model is different from the original application
 [URL](https://developer.apple.com/library/ios/#samplecode/PhotoLocations/Introduction/Intro.html#//apple_ref/doc/uid/DTS40008909)
 
 Last Revision:	Version 1.1, 2010-07-23
+
+#MusicCube#
+
+MusicCube demonstrates basic use of OpenGL ES, OpenAL, and Audio File Services on the iPhone for manipulating sound in a 3D environment. The four modes in the application illustrate how the sound volume and balance will change based on the position of the omnidirectional sound source and the position and rotation of the listener.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/MusicCube/Introduction/Intro.html#//apple_ref/doc/uid/DTS40008978)
+
+Last Revision:	Version 1.2, 2010-06-23
