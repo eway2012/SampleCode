@@ -486,3 +486,11 @@ MusicCube demonstrates basic use of OpenGL ES, OpenAL, and Audio File Services o
 [URL](https://developer.apple.com/library/ios/#samplecode/MusicCube/Introduction/Intro.html#//apple_ref/doc/uid/DTS40008978)
 
 Last Revision:	Version 1.2, 2010-06-23
+
+#Locations#
+
+This sample represents the completed project from the Your First iPhone Application With Core Data tutorial. The application displays a list of events, which encapsulate a time stamp and a geographical location expressed in latitude and longitude, and allows the user to add and remove events.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/Locations/Introduction/Intro.html#//apple_ref/doc/uid/DTS40008406)
+
+Last Revision:	Version 1.3, 2010-06-29
