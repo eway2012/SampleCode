@@ -438,3 +438,19 @@ This example shows how to use various drawing API's in UIKit. - UIBezierPath for
 [URL](https://developer.apple.com/library/ios/#samplecode/SimpleStocks/Introduction/Intro.html#//apple_ref/doc/uid/DTS40011103)
 
 Last Revision:	Version 1.1, 2011-07-27
+
+#PrintPhoto#
+
+PrintPhoto demonstrates how to print photos. The application allows a user to view and print any photo from the user's photo library. It initially presents a photo that is built into the application's bundle but by touching the photo picker icon you can choose any photo in the library.
+
+PrintPhoto demonstrates two different strategies for printing photos. The simplest way to print a photo is to set the printingItem property of the shared UIPrintInteractionController instance to the NSURL, NSData, UIImage, or ALAsset object referencing or containing the photo. If you have multiple photos to print, you can create an array containing the types of objects cited above and assign that array to the printingItems property.
+
+PrintPhoto also demonstrates how to print by using a custom UIPrintPageRenderer object to render the content for printing. This object must be assigned to the printPageRenderer property of the shared UIPrintInteractionController instance. For this example, the subclass of UIPrintPageRenderer overrides the numberOfPages method as well as a "draw" method that draws the image upon request.
+
+PrintPhoto also shows how to:
+
+* Pick a photo from the user's photo library for display and print. * Utilize the ALAssetsLibrary to obtain a screen size image for display. * Obtain and configure the shared UIPrintInteractionController instance. * Use the printingItem property of the UIPrintInteractionController object for direct data submission. * Alternatively, use a UIPrintPageRenderer object to draw printable content instead of submitting it directly.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/PrintPhoto/Introduction/Intro.html#//apple_ref/doc/uid/DTS40010366)
+
+Last Revision:	Version 1.1, 2011-10-12
