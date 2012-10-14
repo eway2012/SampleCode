@@ -454,3 +454,11 @@ PrintPhoto also shows how to:
 [URL](https://developer.apple.com/library/ios/#samplecode/PrintPhoto/Introduction/Intro.html#//apple_ref/doc/uid/DTS40010366)
 
 Last Revision:	Version 1.1, 2011-10-12
+
+#PocketCoreImage#
+
+This sample demonstrates applying Core Image filters to a still image. The filter configuration is done automatically (using random numbers) and multiple filters may be applied at the same time. While this sample uses a preset list of filters that the user may select from, code is provided in the next section which demonstrates asking the system for a list of filters.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/PocketCoreImage/Introduction/Intro.html#//apple_ref/doc/uid/DTS40011220)
+
+Last Revision:	Version 1.0, 2011-10-12
