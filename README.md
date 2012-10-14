@@ -462,3 +462,19 @@ This sample demonstrates applying Core Image filters to a still image. The filte
 [URL](https://developer.apple.com/library/ios/#samplecode/PocketCoreImage/Introduction/Intro.html#//apple_ref/doc/uid/DTS40011220)
 
 Last Revision:	Version 1.0, 2011-10-12
+
+#PhotoLocations#
+
+This sample illustrates a Core Data application that uses more than one entity and uses transformable attributes. It also shows inferred migration of the persistent store.
+
+The application extends the completed project from the Core Data Tutorial for iPhone OS. The first screen displays a table view of events, which encapsulate a time stamp, a geographical location expressed in latitude and longitude, and the thumbnail of a picture for the event. The user can add and remove events using the first screen.
+
+Event has an optional to-one relationship to Photo (which has an inverse to-one relationship back to Event) that contains the data for a full-sized image. By selecting a row on the first screen, the user displays a detail view that shows the photo (or allows the user to choose a photo for the event).
+
+The photo data is not stored with the event object itself because it's not always needed. When the list of events is first displayed, only the thumbnails are shown. The events' photos are initially represented by faults. The full picture is required only if the user inspects the detail of an event. At the point at which the application asks for a given event's photo object, the fault fires and the photo object is retrieved automatically. This "lazy loading" of data means your application's memory consumption is kept as low as possible.
+
+Although the application's data model is different from the original application's, the original data store is opened by specifying that inferred migration should be used in the application delegate's persistentStoreCoordinator method. (You must ensure that the applications' bundle identifiers are the same.)
+
+[URL](https://developer.apple.com/library/ios/#samplecode/PhotoLocations/Introduction/Intro.html#//apple_ref/doc/uid/DTS40008909)
+
+Last Revision:	Version 1.1, 2010-07-23
