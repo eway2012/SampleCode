@@ -494,3 +494,15 @@ This sample represents the completed project from the Your First iPhone Applicat
 [URL](https://developer.apple.com/library/ios/#samplecode/Locations/Introduction/Intro.html#//apple_ref/doc/uid/DTS40008406)
 
 Last Revision:	Version 1.3, 2010-06-29
+
+#Large Image Downsizing#
+
+This code sample demonstrates a way to support displaying very large images in limited memory environments by turning a large image on disk into a smaller image in memory. This is useful in situations where the original image is too large to fit into memory as required for it to be displayed.
+
+Having useful implications in supporting user defined documents, it should be noted that the photo roll or document sharing drop are the locations that a large image would exist. For simplicity this sample reads a large image from the bundle.
+
+Supported formats are: PNG, TIFF, JPEG. Unsupported formats: GIF, BMP, interlaced images.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/LargeImageDownsizing/Introduction/Intro.html#//apple_ref/doc/uid/DTS40011173)
+
+Last Revision:	Version 1.0, 2011-08-05
