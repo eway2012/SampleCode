@@ -506,3 +506,17 @@ Supported formats are: PNG, TIFF, JPEG. Unsupported formats: GIF, BMP, interlace
 [URL](https://developer.apple.com/library/ios/#samplecode/LargeImageDownsizing/Introduction/Intro.html#//apple_ref/doc/uid/DTS40011173)
 
 Last Revision:	Version 1.0, 2011-08-05
+
+#iPhoneCoreDataRecipes#
+
+This sample shows how you can use view controllers, table views, and Core Data in an iPhone application.
+
+The application uses the domain of organizing and presenting recipes to show how you can use the view controller as the organizing unit to manage screenfuls of information, and how you can leverage table views to display and edit data in an elegant fashion.
+
+Amongst the techniques shown are how to:
+
+* Combine tab bar and navigation controllers to create a complex navigation flow. * Customize a navigation bar. * Implement custom table view cells that reformat themselves in response to editing, removing unnecessary information to ensure that the display remains uncluttered. * Customize a table header view. * Present modal views. * Use multiple entities in a Core Data application. * Provide a default Core Data persistent store.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/iPhoneCoreDataRecipes/Introduction/Intro.html#//apple_ref/doc/uid/DTS40008913)
+
+Last Revision:	Version 1.4, 2010-06-25
