@@ -542,3 +542,11 @@ This sample demonstrates how to use the AVFoundation framework to capture YUV fr
 [URL](https://developer.apple.com/library/ios/#samplecode/GLCameraRipple/Introduction/Intro.html#//apple_ref/doc/uid/DTS40011222)
 
 Last Revision:	Version 1.1, 2012-02-22
+
+#StreetScroller#
+
+Demonstrates how a UIScrollView subclass can scroll infinitely in the horizontal direction.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/StreetScroller/Introduction/Intro.html#//apple_ref/doc/uid/DTS40011102)
+
+Last Revision:	Version 1.1, 2011-08-10
