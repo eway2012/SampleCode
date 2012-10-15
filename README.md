@@ -550,3 +550,11 @@ Demonstrates how a UIScrollView subclass can scroll infinitely in the horizontal
 [URL](https://developer.apple.com/library/ios/#samplecode/StreetScroller/Introduction/Intro.html#//apple_ref/doc/uid/DTS40011102)
 
 Last Revision:	Version 1.1, 2011-08-10
+
+#WhichWayIsUp#
+
+The WhichWayIsUp sample application demonstrates how to use a UIViewController to track the orientation of the device. The application draws a small wooden crate that maintains the correct orientation as the user rotates the device.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/WhichWayIsUp/Introduction/Intro.html#//apple_ref/doc/uid/DTS40007330)
+
+Last Revision:	Version 1.8, 2010-06-24
