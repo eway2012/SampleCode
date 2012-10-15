@@ -534,3 +534,11 @@ The Google documentation for KML is at this website: http://code.google.com/apis
 [URL](https://developer.apple.com/library/ios/#samplecode/KMLViewer/Introduction/Intro.html#//apple_ref/doc/uid/DTS40010046)
 
 Last Revision:	Version 1.3, 2012-02-22
+
+#GLCameraRipple#
+
+This sample demonstrates how to use the AVFoundation framework to capture YUV frames from the camera and process them using shaders in OpenGL ES 2.0. CVOpenGLESTextureCache, which is new to iOS 5.0, is used to provide optimal performance when using the AVCaptureOutput as an OpenGL texture. In addition, a ripple effect is applied by modifying the texture coordinates of a densely tessellated quad.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/GLCameraRipple/Introduction/Intro.html#//apple_ref/doc/uid/DTS40011222)
+
+Last Revision:	Version 1.1, 2012-02-22
