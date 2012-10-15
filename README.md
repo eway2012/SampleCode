@@ -558,3 +558,33 @@ The WhichWayIsUp sample application demonstrates how to use a UIViewController t
 [URL](https://developer.apple.com/library/ios/#samplecode/WhichWayIsUp/Introduction/Intro.html#//apple_ref/doc/uid/DTS40007330)
 
 Last Revision:	Version 1.8, 2010-06-24
+
+#ScrollViewSuite#
+
+A series of examples that illustrate how to use UIScrollView.
+
+1_TapToZoom demonstrates:
+
+* Fitting the image to the screen on launch
+
+* Detecting single, double, and two-finger taps using UIGestureRecognizers
+
+* Zooming in response to taps
+
+2_Autoscroll adds a thumbnail scroll view, and demonstrates:
+
+* Use of the canCancelContentTouches property to track moving touches in a subview of a scroll view
+
+* How to implement autoscrolling in response to a subview being dragged
+
+3_Tiling demonstrates:
+
+* How to subclass UIScrollView to add content tiling
+
+* Reusing tiles to optimize performance and memory use
+
+* Changing the resolution of the content in response to zooming
+
+[URL](https://developer.apple.com/library/ios/#samplecode/ScrollViewSuite/Introduction/Intro.html#//apple_ref/doc/uid/DTS40008904)
+
+Last Revision:	Version 1.3, 2010-10-20
