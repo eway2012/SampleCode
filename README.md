@@ -588,3 +588,11 @@ A series of examples that illustrate how to use UIScrollView.
 [URL](https://developer.apple.com/library/ios/#samplecode/ScrollViewSuite/Introduction/Intro.html#//apple_ref/doc/uid/DTS40008904)
 
 Last Revision:	Version 1.3, 2010-10-20
+
+#NavBar#
+
+Demonstrates how to use UINavigationController and UIViewController classes together as building blocks to your application's user interface. Use it as a launching pad in starting the development of your new application. The various pages in this sample exhibit different ways in how to modify the navigation bar by modifying the navigation controller's UINavigationItem. This class represents the navigation bar at the top of the screen. Among the levels of customization are varying appearance styles known as UIBarStyle, and applying custom left and right buttons known as UIButtonTypeNavigation.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/NavBar/Introduction/Intro.html#//apple_ref/doc/uid/DTS40007418)
+
+Last Revision:	Version 1.11, 2012-02-07
