@@ -637,3 +637,11 @@ This sample implements a two different view controllers one for portrait and one
 [URL](https://developer.apple.com/library/ios/#samplecode/AlternateViews/Introduction/Intro.html#//apple_ref/doc/uid/DTS40008755)
 
 Last Revision:	Version 1.1, 2010-06-23
+
+#DrillDownSave#
+
+Demonstrates how to restore the user's current location in a drill-down list style user interface and restore that location when the app is relaunched. The drill-down or content hierarchy is generated from a plist file called 'outline.plist'. The sample stores the user's location in its preferences file using NSUserDefaults.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/DrillDownSave/Introduction/Intro.html#//apple_ref/doc/uid/DTS40007800)
+
+Last Revision:	Version 1.3, 2010-06-24
