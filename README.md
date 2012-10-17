@@ -645,3 +645,17 @@ Demonstrates how to restore the user's current location in a drill-down list sty
 [URL](https://developer.apple.com/library/ios/#samplecode/DrillDownSave/Introduction/Intro.html#//apple_ref/doc/uid/DTS40007800)
 
 Last Revision:	Version 1.3, 2010-06-24
+
+#Tweeting#
+
+By using the Twitter framework, Accounts framework, and the NSJSONSerialization class, this sample demonstrates using the built-in Twitter composition sheet, creating a custom POST request, and downloading the public timeline from Twitter.
+
+The "Send Easy Tweet" button checks if a Twitter account is present on the device and creates a pre-populated TWTweetComposeViewController. This also handles the "cancel" and "send" actions from the TWTweetComposeViewController.
+
+The "Send Custom Tweet" button utilizes the Accounts framework to create an instance of the account store on the device and then find all Twitter accounts present. In this example, the first Twitter ACAccount object found is used to pre-populate a tweet and uses a TWRequest to post the tweet using the Twitter API. This example also handles the returned response data and http response.
+
+The "Get Public Timeline" button creates a TWRequest to get the current public timeline using the Twitter API. The response data is then converted from JSON data to an NSDictionary, using the NSJSONSerialization class.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/Tweeting/Introduction/Intro.html#//apple_ref/doc/uid/DTS40011191)
+
+Last Revision:	Version 1.0, 2011-10-12
