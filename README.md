@@ -623,3 +623,17 @@ This sample demonstrates the use of the two main Cryptographic API sets on the i
 [URL](https://developer.apple.com/library/ios/#samplecode/CryptoExercise/Introduction/Intro.html#//apple_ref/doc/uid/DTS40008019)
 
 Last Revision:	Version 1.2, 2009-05-13
+
+#AlternateViews#
+
+Demonstrates how to implement alternate or distinguishing view controllers for each particular device orientation. Through the help of the following UIViewController properties, this can be easily achieved -
+
+	@property(nonatomic,assign) UIModalTransitionStyle modalTransitionStyle;	// for a transition fade
+
+	@property(nonatomic,assign) BOOL wantsFullScreenLayout; // for any view controller to appear over another
+
+This sample implements a two different view controllers one for portrait and one for landscape. The portrait view controller listens for device orientations in order to properly swap in and out the landscape view controller. It uses the above two properties to achieve the visual cross-fade effect.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/AlternateViews/Introduction/Intro.html#//apple_ref/doc/uid/DTS40008755)
+
+Last Revision:	Version 1.1, 2010-06-23
