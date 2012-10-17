@@ -596,3 +596,15 @@ Demonstrates how to use UINavigationController and UIViewController classes toge
 [URL](https://developer.apple.com/library/ios/#samplecode/NavBar/Introduction/Intro.html#//apple_ref/doc/uid/DTS40007418)
 
 Last Revision:	Version 1.11, 2012-02-07
+
+#GLEssentials#
+
+This sample provides examples of some essential techniques for using the OpenGL and OpenGL ES API. It includes usages of Vertex Buffer Objects (VBOs), Vertex Array Objects (VAOs), Framebuffer Objects (FBO), and GLSL Program Objects. It creates a VAO and VBOs from model data loaded in. It then creates a texture for the model from image data and GLSL shaders from source also loaded in. Finally, it creates an FBO and texture to render a reflection of the model. It uses an environment mapping GLSL program to apply the reflection texture to a plane.
+
+This sample also demonstrates sharing of OSX OpenGL with iOS OpenGL ES source code. Additionally, it demonstrates how to obtain and use an OpenGL 3.2 rendering context on OSX 10.7 or later.
+
+Many of these techniques were described in the "OpenGL Essential Design Practices" session from WWDC 2010.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/GLEssentials/Introduction/Intro.html#//apple_ref/doc/uid/DTS40010104)
+
+Last Revision:	Version 1.5, 2012-01-25
