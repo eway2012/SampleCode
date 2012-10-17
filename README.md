@@ -659,3 +659,11 @@ The "Get Public Timeline" button creates a TWRequest to get the current public t
 [URL](https://developer.apple.com/library/ios/#samplecode/Tweeting/Introduction/Intro.html#//apple_ref/doc/uid/DTS40011191)
 
 Last Revision:	Version 1.0, 2011-10-12
+
+#iPhoneUnitTests#
+
+iPhoneUnitTests illustrates the use of unit tests on an iPhone application project to ensure that application functionality does not degrade as its source code undergoes changes to improve the application or to fix bugs. The project showcases the two types of unit test: logic and application. Logic unit tests allow for stress-testing source code. Application unit tests help ensure the correct linkage between user-interface controls, controller objects, and model objects.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/iPhoneUnitTests/Introduction/Intro.html#//apple_ref/doc/uid/DTS40008868)
+
+Last Revision:	Version 2.0, 2011-08-17
