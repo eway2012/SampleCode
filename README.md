@@ -615,3 +615,11 @@ Shows how to use a keyboard accessory view. The application uses a single view c
 
 [URL](https://developer.apple.com/library/ios/#samplecode/KeyboardAccessory/Introduction/Intro.html#//apple_ref/doc/uid/DTS40009462)
  Last Revision:	Version 1.3, 2010-04-19
+
+#CryptoExercise#
+
+This sample demonstrates the use of the two main Cryptographic API sets on the iPhone OS SDK. Asymmetric Key Encryption and random nonce generation is handled through the Security framework API set, whereas, Symmetric Key Encryption and Digest generation is handled by the CommonCrypto API set. The CryptoExercise sample brings both of these APIs together through a network service, discoverable via Bonjour, that performs a "dummy" cryptographic protocol between devices found on the same subnet.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/CryptoExercise/Introduction/Intro.html#//apple_ref/doc/uid/DTS40008019)
+
+Last Revision:	Version 1.2, 2009-05-13
