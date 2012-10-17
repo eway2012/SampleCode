@@ -608,3 +608,10 @@ Many of these techniques were described in the "OpenGL Essential Design Practice
 [URL](https://developer.apple.com/library/ios/#samplecode/GLEssentials/Introduction/Intro.html#//apple_ref/doc/uid/DTS40010104)
 
 Last Revision:	Version 1.5, 2012-01-25
+
+#KeyboardAccessory#
+
+Shows how to use a keyboard accessory view. The application uses a single view controller. The view controller's view is covered by a text view. When you tap the text view, the view controller loads a nib file containing an accessory view that it assigns to the text view's inputAccessoryView property. The accessory view contains a button. When you tap the button, the text "You tapped me." is added to the text view. The sample also shows how you can use the keyboard-will-show and keyboard-will-hide notifications to animate resizing a view that is obscured by the keyboard.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/KeyboardAccessory/Introduction/Intro.html#//apple_ref/doc/uid/DTS40009462)
+ Last Revision:	Version 1.3, 2010-04-19
