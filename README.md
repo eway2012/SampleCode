@@ -667,3 +667,13 @@ iPhoneUnitTests illustrates the use of unit tests on an iPhone application proje
 [URL](https://developer.apple.com/library/ios/#samplecode/iPhoneUnitTests/Introduction/Intro.html#//apple_ref/doc/uid/DTS40008868)
 
 Last Revision:	Version 2.0, 2011-08-17
+
+#AVLoupe#
+
+This sample demonstrates how to use multiple synchronized AVPlayerLayer instances, associated with a single AVPlayer, to efficiently produce non-trivial presentation of timed visual media. Using just one AVPlayer this sample demonstrates how you can display the same video in multiple AVPlayerLayers simultaneously. With minimal code you can create very customized and creative forms of video display. As an example, this sample demonstrates an interactive loupe, or magnifying glass, for video playback. This is similar to features that you might have used in iPhoto and Aperture.
+
+This sample was explored in the WWDC 2012 session 517: Real-Time Media Effects and Processing during Playback.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/AVLoupe/Introduction/Intro.html#//apple_ref/doc/uid/DTS40012894)
+
+Last Revision:	Version 1.0, 2012-10-16
