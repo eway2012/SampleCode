@@ -677,3 +677,11 @@ This sample was explored in the WWDC 2012 session 517: Real-Time Media Effects a
 [URL](https://developer.apple.com/library/ios/#samplecode/AVLoupe/Introduction/Intro.html#//apple_ref/doc/uid/DTS40012894)
 
 Last Revision:	Version 1.0, 2012-10-16
+
+#TableMultiSelect#
+
+Demonstrates the use of multiple selection of table cells in UITableView; in particular, using it to delete one or more items.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/TableMultiSelect/Introduction/Intro.html#//apple_ref/doc/uid/DTS40011189)
+
+Last Revision:	Version 1.1, 2012-10-16
