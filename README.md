@@ -685,3 +685,13 @@ Demonstrates the use of multiple selection of table cells in UITableView; in par
 [URL](https://developer.apple.com/library/ios/#samplecode/TableMultiSelect/Introduction/Intro.html#//apple_ref/doc/uid/DTS40011189)
 
 Last Revision:	Version 1.1, 2012-10-16
+
+#ToolbarSearch#
+
+This sample shows how to use a search field in a toolbar. When you start a search, a table view displaying recent searches matching the current search string is displayed in a popover.
+
+The main view controller adds to a toolbar a bar button item with a search field as a custom view. If you tap the search field, the view controller presents a popover containing a list of recent searches. The list is stored in user defaults so that it persists between launches of the application, and is managed by the list's table view controller. The recents list is filtered by the current search term. If you select an item from the recents list, the item is copied to the search field and a search executed.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/ToolbarSearch/Introduction/Intro.html#//apple_ref/doc/uid/DTS40009461)
+
+Last Revision:	Version 1.4, 2011-10-24
