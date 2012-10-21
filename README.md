@@ -695,3 +695,15 @@ The main view controller adds to a toolbar a bar button item with a search field
 [URL](https://developer.apple.com/library/ios/#samplecode/ToolbarSearch/Introduction/Intro.html#//apple_ref/doc/uid/DTS40009461)
 
 Last Revision:	Version 1.4, 2011-10-24
+
+#SquareCam#
+
+SquareCam demonstrates improvements to the AVCaptureStillImageOutput class in iOS 5, highlighting the following features:
+
+- KVO observation of the @"capturingStillImage" property to know when to perform an animation - Use of setVideoScaleAndCropFactor: to achieve a "digital zoom" effect on captured images - Switching between front and back cameras while showing a real-time preview - Integrating with CoreImage's new CIFaceDetector to find faces in a real-time VideoDataOutput, as well as in a captured still image. Found faces are indicated with a red square. - Overlaid square is rotated appropriately for the 4 supported device rotations.
+
+Note: This sample will not deliver any camera output on the iOS simulator.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/SquareCam/Introduction/Intro.html#//apple_ref/doc/uid/DTS40011190)
+
+Last Revision:	Version 1.0, 2011-10-12
