@@ -747,3 +747,11 @@ This sample code project shows how to create an an iOS audio processing graph co
 [URL](https://developer.apple.com/library/ios/#samplecode/LoadPresetDemo/Introduction/Intro.html#//apple_ref/doc/uid/DTS40011214)
 
 Last Revision:	Version 1.1, 2011-10-12
+
+#Breadcrumb#
+
+Demonstrates how to draw a path using the Map Kit overlay, MKOverlayView, that follows and tracks the user's current location. The included CrumbPath and CrumbPathView overlay and overlay view classes can be used for any path of points that are expected to change over time. It also demonstrates what is needed to track the user's location as a background process.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/Breadcrumb/Introduction/Intro.html#//apple_ref/doc/uid/DTS40010048)
+
+Last Revision:	Version 1.5, 2011-10-12
