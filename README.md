@@ -771,3 +771,11 @@ When the user chooses to record a movie, an AVAssetWriter is used to write the p
 [URL](https://developer.apple.com/library/ios/#samplecode/RosyWriter/Introduction/Intro.html#//apple_ref/doc/uid/DTS40011110)
 
 Last Revision:	Version 1.2, 2011-10-06
+
+#MoviePlayer#
+
+Demonstrates how to use the Media Player framework to play a movie from a file or network stream, and configure the movie background color, playback controls, background color and image, scaling and repeat modes. It also shows how to draw custom overlay controls on top of the movie during playback.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/MoviePlayer_iPhone/Introduction/Intro.html#//apple_ref/doc/uid/DTS40007798)
+
+Last Revision:	Version 1.4, 2011-08-25
