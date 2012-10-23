@@ -727,3 +727,15 @@ A view controller creates four gesture recognizers to recognize a tap, a right s
 [URL](https://developer.apple.com/library/ios/#samplecode/SimpleGestureRecognizers/Introduction/Intro.html#//apple_ref/doc/uid/DTS40009460)
 
 Last Revision:	Version 2.0, 2011-10-12
+
+#StopNGo for iOS#
+
+StopNGo is a simple stop-motion animation QuickTime movie recorder that uses AVFoundation.
+
+It creates a AVCaptureSession, AVCaptureDevice, AVCaptureVideoPreviewLayer, and AVCaptureStillImageOutput to preview and capture still images from a video capture device, then re-times each sample buffer to a frame rate of 5 fps and writes frames to disk using AVAssetWriter.
+
+A frame rate of 5 fps means that 5 still images will result in a 1 second long movie. This value is hard coded in the sample but may be changed as required.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/StopNGo/Introduction/Intro.html#//apple_ref/doc/uid/DTS40011123)
+
+Last Revision:	Version 1.0.1, 2011-10-12
