@@ -755,3 +755,19 @@ Demonstrates how to draw a path using the Map Kit overlay, MKOverlayView, that f
 [URL](https://developer.apple.com/library/ios/#samplecode/Breadcrumb/Introduction/Intro.html#//apple_ref/doc/uid/DTS40010048)
 
 Last Revision:	Version 1.5, 2011-10-12
+
+#RosyWriter#
+
+This sample demonstrates the use of the AV Foundation framework to capture, process, preview, and save video on iOS devices.
+
+When RosyWriter launches, it creates an AVCaptureSession with audio and video device inputs, and outputs for audio and video data. These outputs continuously supply frames of audio and video to the app, via the captureOutput:didOutputSampleBuffer:fromConnection: delegate method.
+
+The app applies a very simple processing step to each video frame. Specifically, it sets the green element of each pixel to zero, which gives the entire frame a purple tint. Audio frames are not processed.
+
+After a frame of video is processed, RosyWriter uses OpenGL ES 2 to display it on the screen. This step uses the CVOpenGLESTextureCache API, new in iOS 5, for enhanced performance.
+
+When the user chooses to record a movie, an AVAssetWriter is used to write the processed video and un-processed audio to a QuickTime movie file.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/RosyWriter/Introduction/Intro.html#//apple_ref/doc/uid/DTS40011110)
+
+Last Revision:	Version 1.2, 2011-10-06
