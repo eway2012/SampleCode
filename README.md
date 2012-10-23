@@ -793,3 +793,11 @@ In addition to custom page content, it also draws custom page headers, page foot
 [URL](https://developer.apple.com/library/ios/#samplecode/Recipes_+_Printing/Introduction/Intro.html#//apple_ref/doc/uid/DTS40011098)
 
 Last Revision:	Version 1.1, 2011-08-24
+
+#StitchedStreamPlayer#
+
+A simple AVFoundation demonstration of how timed metadata can be used to identify different content in a stream, supporting a custom seek UI.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/StitchedStreamPlayer/Introduction/Intro.html#//apple_ref/doc/uid/DTS40010092)
+
+Last Revision:	Version 1.4, 2011-06-27
