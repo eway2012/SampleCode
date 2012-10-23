@@ -739,3 +739,11 @@ A frame rate of 5 fps means that 5 still images will result in a 1 second long m
 [URL](https://developer.apple.com/library/ios/#samplecode/StopNGo/Introduction/Intro.html#//apple_ref/doc/uid/DTS40011123)
 
 Last Revision:	Version 1.0.1, 2011-10-12
+
+#Sampler Unit Presets (LoadPresetDemo)#
+
+This sample code project shows how to create an an iOS audio processing graph containing a Sampler audio unit and how to configure the sampler by loading an AUPreset file that was created in Mac OS X. The project also shows how to start the graph and trigger note-on and note-off events to audition the presets.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/LoadPresetDemo/Introduction/Intro.html#//apple_ref/doc/uid/DTS40011214)
+
+Last Revision:	Version 1.1, 2011-10-12
