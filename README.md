@@ -779,3 +779,17 @@ Demonstrates how to use the Media Player framework to play a movie from a file o
 [URL](https://developer.apple.com/library/ios/#samplecode/MoviePlayer_iPhone/Introduction/Intro.html#//apple_ref/doc/uid/DTS40007798)
 
 Last Revision:	Version 1.4, 2011-08-25
+
+#Recipes and Printing#
+
+The Recipes sample app lets you browse recipes. This sample adds the ability to print the recipes.
+
+It demonstrates formatting data presented by the application UI in a completely custom way for the printed page.
+
+By subclassing UIPrintPageRenderer, this sample illustrates intermixing custom drawn page content with content drawn by architecture-provided UIPrintFormatters.
+
+In addition to custom page content, it also draws custom page headers, page footers, and page breaks.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/Recipes_+_Printing/Introduction/Intro.html#//apple_ref/doc/uid/DTS40011098)
+
+Last Revision:	Version 1.1, 2011-08-24
