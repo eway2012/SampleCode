@@ -845,3 +845,11 @@ For those new to Core Data, it can be helpful to compare SeismicXML sample with 
 [URL](https://developer.apple.com/library/ios/#samplecode/ThreadedCoreData/Introduction/Intro.html#//apple_ref/doc/uid/DTS40010723)
 
 Last Revision:	Version 1.0, 2011-03-01
+
+#AVCam#
+
+AVCam demonstrates how to use the AV Foundation capture APIs for recording movies and taking still images. There is a record button for recording movies, a camera button for switching between front and back cameras (on supported devices), and a still button for taking still images.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/AVCam/Introduction/Intro.html#//apple_ref/doc/uid/DTS40010112)
+
+Last Revision:	Version 1.2, 2011-03-01
