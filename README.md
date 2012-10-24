@@ -809,3 +809,11 @@ Uses AVPlayer to play videos from the iPod Library, Camera Roll, or via iTunes F
 [URL](https://developer.apple.com/library/ios/#samplecode/AVPlayerDemo/Introduction/Intro.html#//apple_ref/doc/uid/DTS40010101)
 
 Last Revision:	Version 1.1, 2011-06-10
+
+#GKAuthentication#
+
+An example of how to successfully authenticate using GameKit.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/GKAuthentication/Introduction/Intro.html#//apple_ref/doc/uid/DTS40010933)
+
+Last Revision:	Version 1.0, 2011-04-27
