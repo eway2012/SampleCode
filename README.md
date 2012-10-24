@@ -801,3 +801,11 @@ A simple AVFoundation demonstration of how timed metadata can be used to identif
 [URL](https://developer.apple.com/library/ios/#samplecode/StitchedStreamPlayer/Introduction/Intro.html#//apple_ref/doc/uid/DTS40010092)
 
 Last Revision:	Version 1.4, 2011-06-27
+
+#AVPlayerDemo#
+
+Uses AVPlayer to play videos from the iPod Library, Camera Roll, or via iTunes File Sharing. Also displays metadata.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/AVPlayerDemo/Introduction/Intro.html#//apple_ref/doc/uid/DTS40010101)
+
+Last Revision:	Version 1.1, 2011-06-10
