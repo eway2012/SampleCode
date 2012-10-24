@@ -833,3 +833,15 @@ The GKRocket sample application demonstrates the major features of GameKit. It u
 [URL](https://developer.apple.com/library/ios/#samplecode/GKRocket/Introduction/Intro.html#//apple_ref/doc/uid/DTS40009747)
 
 Last Revision:	Version 1.1, 2011-03-15
+
+#ThreadedCoreData#
+
+Demonstrates how to use Core Data in a multi-threaded environment, following the first recommended pattern mentioned in the Core Data Programming Guide.
+
+Based on the SeismicXML sample, it downloads and parses an RSS feed from the United States Geological Survey (USGS) that provides data on recent earthquakes around the world. What makes this sample different is that it persistently stores earthquakes using Core Data. Each time you launch the app, it downloads new earthquake data, parses it in an NSOperation which checks for duplicates and stores newly founded earthquakes as managed objects.
+
+For those new to Core Data, it can be helpful to compare SeismicXML sample with this sample and notice the necessary ingredients to introduce Core Data in your application.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/ThreadedCoreData/Introduction/Intro.html#//apple_ref/doc/uid/DTS40010723)
+
+Last Revision:	Version 1.0, 2011-03-01
