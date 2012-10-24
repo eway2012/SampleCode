@@ -853,3 +853,27 @@ AVCam demonstrates how to use the AV Foundation capture APIs for recording movie
 [URL](https://developer.apple.com/library/ios/#samplecode/AVCam/Introduction/Intro.html#//apple_ref/doc/uid/DTS40010112)
 
 Last Revision:	Version 1.2, 2011-03-01
+
+#avTouch#
+
+The avTouch sample demonstrates use of the AVAudioPlayer class for basic audio playback.
+
+The code in avTouch uses the AV Foundation framework to play a file containing AAC audio data. The application uses Core Graphics and OpenGL to display sound volume meters during playback.
+
+This application shows how to:
+
+* Create an AVAudioPlayer object from an input audio file.
+
+* Use OpenGL and Core Graphics to display metering levels.
+
+* Use Audio Session Services to set an appropriate audio session category for playback.
+
+* Use the AVAudioPlayer interruption delegate methods to pause playback upon receiving an interruption, and to then resume playback if the interruption ends.
+
+* Demonstrates a technique to perform Fast Forward and Rewind
+
+avTouch does not demonstrate how to play multiple files, nor does it demonstrate more advanced use of AV Foundation.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/avTouch/Introduction/Intro.html#//apple_ref/doc/uid/DTS40008636)
+
+Last Revision:	Version 1.4.2, 2011-02-08
