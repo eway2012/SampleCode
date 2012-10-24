@@ -825,3 +825,11 @@ This sample demonstrates proper use of region monitoring, significant location c
 [URL](https://developer.apple.com/library/ios/#samplecode/Regions/Introduction/Intro.html#//apple_ref/doc/uid/DTS40010726)
 
 Last Revision:	Version 1.1, 2011-03-23
+
+#GKRocket#
+
+The GKRocket sample application demonstrates the major features of GameKit. It uses GKSession and GKVoiceChatService to create a two player networked voice enabled game.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/GKRocket/Introduction/Intro.html#//apple_ref/doc/uid/DTS40009747)
+
+Last Revision:	Version 1.1, 2011-03-15
