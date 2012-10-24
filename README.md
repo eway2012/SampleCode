@@ -817,3 +817,11 @@ An example of how to successfully authenticate using GameKit.
 [URL](https://developer.apple.com/library/ios/#samplecode/GKAuthentication/Introduction/Intro.html#//apple_ref/doc/uid/DTS40010933)
 
 Last Revision:	Version 1.0, 2011-04-27
+
+#Regions#
+
+This sample demonstrates proper use of region monitoring, significant location changes, and handling location events in the background on iOS. The sample uses an MKMapView that allows the user to add and remove regions to monitor, as well as a UITableView to display the region enter/exit/fail events that occur. When the application goes into the background, location updates are stopped and significant location changes are started. Likewise, when the application enters the foreground, location updates are started again and significant location changes are stopped. When location updates occur in the background, a badge is added to the homescreen icon displaying the number of region enter/exit/fail events logged.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/Regions/Introduction/Intro.html#//apple_ref/doc/uid/DTS40010726)
+
+Last Revision:	Version 1.1, 2011-03-23
