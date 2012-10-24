@@ -877,3 +877,11 @@ avTouch does not demonstrate how to play multiple files, nor does it demonstrate
 [URL](https://developer.apple.com/library/ios/#samplecode/avTouch/Introduction/Intro.html#//apple_ref/doc/uid/DTS40008636)
 
 Last Revision:	Version 1.4.2, 2011-02-08
+
+#AdvancedURLConnections#
+
+This sample demonstrates various advanced networking techniques with NSURLConnection. Specifically, it demonstrates how to respond to authentication challenges, how to modify the default server trust evaluation (for example, to support a server with a self-signed certificate), and how to provide client identities.
+
+[URL](https://developer.apple.com/library/ios/#samplecode/AdvancedURLConnections/Introduction/Intro.html#//apple_ref/doc/uid/DTS40009558)
+
+Last Revision:	Version 1.2, 2011-01-26
